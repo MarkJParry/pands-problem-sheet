@@ -7,4 +7,4 @@ Contents:
 
 |Program     |Description                                                                                              |Task#   |Date      |
 |------------|---------------------------------------------------------------------------------------------------------|--------|----------|
-|Bmi.py      |Ask the user for their height in centimeters and weight in ks and calculate their body mass index (BMI)  |Week02  |27/01/2021|
+|Bmi.py      |Ask the user for their height in centimeters and weight in kgs and calculate their body mass index (BMI)  |Week02  |27/01/2021|
