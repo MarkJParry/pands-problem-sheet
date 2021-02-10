@@ -12,6 +12,7 @@
 numIn = abs(int(input("Please enter any positive  number: ")))
 
 #initialise variables for calculation and output
+
 calc = 0
 strOut = str(numIn)
 
