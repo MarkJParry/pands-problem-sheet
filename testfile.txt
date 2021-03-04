@@ -1,0 +1,5 @@
+This is a test file
+There are some lines in it
+The lines contain words
+The words contain letters
+It will be used by a program to count the number of occurences of the letter "e"
