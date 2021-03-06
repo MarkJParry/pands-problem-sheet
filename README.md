@@ -15,10 +15,12 @@ weekday.py|Returns the day of the week from todays date and checks if it a worki
 squareroot.py|Finds the square root of a number using the newton square root method|Week06|28/02/2021
 es.py|Counts the occurences of the lowercase letter "e" in a file where the filename is entered at the command line prompt|Week07|04/03/2021
 
-References
+**References:**
+
 Book|Title|Publisher
-----------|-------------------------------------
-Books|Python for beginners|
+----------|-------------------------------------|--------------
+Books|Python for beginners|McGrawHill?
 
 Site|Url|Narative
 -------|---------------------------------------------------|-----------------------------------
+google|www.google.com| General starting point
