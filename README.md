@@ -17,10 +17,13 @@ es.py|Counts the occurences of the lowercase letter "e" in a file where the file
 
 **References:**
 
-Book|Title|Publisher
-----------|-------------------------------------|--------------
-Books|Python for beginners|McGrawHill?
+Title|Author|Publisher|ISBN
+-----------------------------------|-------------------------------------|---------------------------------------------|--------------------------
+A whirlwind tour of python|Jake VanDerPlas|O'Reilly Media, Inc.|ISBN: 9781491964644
+Python Automate the boring stuff|Al Sweigart|https://automatetheboringstuff.com/ |ISBN-13: 9781593279929
 
 Site|Url|Narative
 -------|---------------------------------------------------|-----------------------------------
-google|www.google.com| General starting point
+google|www.google.com |General starting point
+Real Python|https://realpython.com/tutorials/ |Tutorials
+
