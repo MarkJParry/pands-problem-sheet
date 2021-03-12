@@ -14,6 +14,7 @@ collatz.py|Perform a calculation on a user inputted number until the calculation
 weekday.py|Returns the day of the week from todays date and checks if it a working day or the weekend|Week05|17/02/2021
 squareroot.py|Finds the square root of a number using the newton square root method|Week06|28/02/2021
 es.py|Counts the occurences of the lowercase letter "e" in a file where the filename is entered at the command line prompt|Week07|04/03/2021
+plottask.py|Uses the matplotlib and numpy modules to produce a plot for 3 functions of x( x, x squared,x cubed)|12/03/2021
 
 **References:**
 
